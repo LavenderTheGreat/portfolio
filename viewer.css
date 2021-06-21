@@ -1,0 +1,11 @@
+.viewer-title{
+    color: var(--white);
+    text-shadow: 1px 1px var(--black);
+    line-height: 1.5;
+    font-size: 14px;
+    font-weight: 100;
+    background-color: rgba(0,0,0,0.7);
+    padding: 5px;
+    border-radius: 3px;
+    margin: 3px;
+}
